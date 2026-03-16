@@ -1,1 +1,2 @@
 This questionnaire is part of a mobile‑app concept I am developing in the health and wellness space. The project is currently in stealth mode, so only limited details can be shared publicly. The broader vision is to support individuals in navigating everyday stress, anxiety, or challenging work & life situations, and to empower people with tools that improve the overall mental well‑being.
+App questionnaire weblink: https://project-22-two.vercel.app/
